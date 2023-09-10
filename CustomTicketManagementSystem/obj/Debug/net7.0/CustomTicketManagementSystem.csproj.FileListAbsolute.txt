@@ -1,0 +1,14 @@
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\bin\Debug\net7.0\CustomTicketManagementSystem.exe
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\bin\Debug\net7.0\CustomTicketManagementSystem.deps.json
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\bin\Debug\net7.0\CustomTicketManagementSystem.runtimeconfig.json
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\bin\Debug\net7.0\CustomTicketManagementSystem.dll
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\bin\Debug\net7.0\CustomTicketManagementSystem.pdb
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\CustomTicketManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\CustomTicketManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\CustomTicketManagementSystem.AssemblyInfo.cs
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\CustomTicketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\CustomTicketManagementSystem.dll
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\refint\CustomTicketManagementSystem.dll
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\CustomTicketManagementSystem.pdb
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\CustomTicketManagementSystem.genruntimeconfig.cache
+C:\Users\hassa\source\repos\CustomTicketManagementSystem\CustomTicketManagementSystem\obj\Debug\net7.0\ref\CustomTicketManagementSystem.dll
